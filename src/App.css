@@ -1,5 +1,6 @@
 body {
      background-color: rgb(123, 124, 27);
+    
      
     }
     
@@ -11,6 +12,7 @@ body {
       border-radius: 50px;
       background-color: rgb(12, 56, 12);
       color: gold;
+      margin-top: 50px;
   
 }
 .p {
