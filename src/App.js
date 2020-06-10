@@ -40,7 +40,15 @@ function App(props) {
   <ul>
     <li>Peshawer</li>
     <li>Mardan</li>
+    <li>Sawat</li>
   </ul>
+  <li>Balochistan</li>
+  <ul>
+    <li>Quetta</li>
+    <li>sibbi</li>
+    <li>Gawadar</li>
+  </ul>
+
 </ul>
 
        
@@ -57,7 +65,7 @@ function App(props) {
         
         </div>
 
-        <div className="footer" >Pakista Zindabad</div>
+        <div className="footer" >Pakistan Zindabad</div>
 
       </div>
     
