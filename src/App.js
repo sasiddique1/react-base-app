@@ -60,7 +60,7 @@ function App(props) {
       <div className="pp" >
 
       <h5 className="h5" >"About Pakistan"</h5>
-      <p  className="p"> Pakistan, officially the Islamic Republic of Pakistan, is a country in South Asia. It is the world's fifth-most populous country with a population exceeding 212.2 million. By area, it is the 33rd-largest country,Pakistan,</p>       
+      <p  className="p"> Pakistan, officially the Islamic Republic of Pakistan, is a country in South Asia. It is the world's fifth-most populous country with a population exceeding 212.2 million. By area, it is the 33rd-largest country.</p>       
       </div>
         
         </div>
